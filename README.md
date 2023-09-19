@@ -1,2 +1,2 @@
-# iValidate
+# @iValidate
 Email Validator
