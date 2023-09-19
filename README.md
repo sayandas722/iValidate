@@ -1,3 +1,3 @@
 # @iValidate
-Email Validator
-Check the validity of any email.
+## Email Validator
+## Check the validity of any email.
